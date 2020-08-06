@@ -1,0 +1,16 @@
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\bin\Debug\SeleniumBingTests.dll
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\bin\Debug\SeleniumBingTests.pdb
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\bin\Debug\WebDriver.dll
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\bin\Debug\WebDriver.xml
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\obj\Debug\SeleniumBingTests.csprojAssemblyReference.cache
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\obj\Debug\SeleniumBingTests.csproj.CoreCompileInputs.cache
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\obj\Debug\SeleniumBingTests.csproj.CopyComplete
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\obj\Debug\SeleniumBingTests.dll
+F:\netapp\AspNetCoreOn\SeleniumBingTests\SeleniumBingTests\obj\Debug\SeleniumBingTests.pdb
